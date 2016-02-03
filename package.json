@@ -20,7 +20,16 @@
     "url": "https://github.com/garethmidwood/sonumi-device/issues"
   },
   "homepage": "https://github.com/garethmidwood/sonumi-device",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "rewire": "^2.5.1",
+    "sinon": "^1.17.2"
+  },
   "dependencies": {
-    "httpdispatcher": "^0.4.0"
+    "config": "^1.19.0",
+    "getmac": "^1.0.7",
+    "httpdispatcher": "^0.4.0",
+    "sonumi-logger": "git+ssh://git@github.com/garethmidwood/sonumi-logger.git"
   }
 }

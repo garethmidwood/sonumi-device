@@ -1,0 +1,8 @@
+{
+  "logging": {
+    "logDir": "/tmp/logs"
+  },
+  "server": {
+    "port": 3100
+  }
+}
