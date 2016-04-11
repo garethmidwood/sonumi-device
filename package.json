@@ -2,7 +2,7 @@
   "name": "sonumi-device",
   "version": "0.1.0",
   "description": "sonumi device",
-  "main": "index.js",
+  "main": "lib/device.js",
   "scripts": {
     "test": "make test"
   },
