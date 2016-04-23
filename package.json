@@ -33,6 +33,6 @@
     "onoff": "^1.0.4",
     "socket.io": "^1.4.5",
     "socket.io-client": "^1.4.5",
-    "sonumi-logger": "git+ssh://git@github.com/garethmidwood/sonumi-logger.git"
+    "sonumi-logger": "https://github.com/garethmidwood/sonumi-logger/archive/master.tar.gz"
   }
 }
